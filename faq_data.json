@@ -1,0 +1,206 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Shipping & Delivery",
+      "icon": "https://cdn.shopify.com/s/files/1/0615/9591/0319/files/hand-delivery-box-box-svgrepo-com.svg?v=1738088007"
+    },
+    {
+      "id": 2,
+      "title": "Exchanges & Returns",
+      "icon": "https://cdn.shopify.com/s/files/1/0615/9591/0319/files/packing-box-package-svgrepo-com.svg?v=1738113329"
+    },
+    {
+      "id": 3,
+      "title": "Miscellaneous",
+      "icon": "https://cdn.shopify.com/s/files/1/0615/9591/0319/files/ecommerce-website-commerce-and-shopping-svgrepo-com.svg?v=1738116070"
+    },
+    {
+      "id": 4,
+      "title": "International Orders",
+      "icon": "https://cdn.shopify.com/s/files/1/0615/9591/0319/files/delivery-box-present-svgrepo-com.svg?v=1738115522"
+    },
+    {
+      "id": 5,
+      "title": "Contact Information",
+      "icon": "https://cdn.shopify.com/s/files/1/0615/9591/0319/files/costumer-service-customer-helpdesk-svgrepo-com.svg?v=1738117037"
+    }
+  ],
+  "questions": [
+    {
+      "id": 101,
+      "category_id": 1,
+      "question": "How long does it take to receive an order?",
+      "answer": "Standard domestic orders typically arrive within 3-5 business days. International shipping times may vary.",
+      "featured": true
+    },
+    {
+      "id": 102,
+      "category_id": 1,
+      "question": "How can I track my order?",
+      "answer": "Once your order has shipped, you will receive an email confirmation with a tracking number and a link to the carrier's website.",
+      "featured": true
+    },
+    {
+      "id": 103,
+      "category_id": 1,
+      "question": "What are the shipping costs?",
+      "answer": "Shipping costs are calculated at checkout based on your order's weight and destination. We offer free standard shipping on all orders over $75.",
+      "featured": false
+    },
+    {
+      "id": 104,
+      "category_id": 1,
+      "question": "Do you ship internationally?",
+      "answer": "Yes, we ship to most countries worldwide. Please note that international orders may be subject to customs duties and taxes, which are the responsibility of the customer.",
+      "featured": false
+    },
+    {
+      "id": 105,
+      "category_id": 1,
+      "question": "My order says delivered, but I haven't received it.",
+      "answer": "Please check with your neighbors or building manager first. If you still cannot locate your package, please contact our support team at support@example.com, and we will assist you.",
+      "featured": false
+    },
+    {
+      "id": 201,
+      "category_id": 2,
+      "question": "How do I start a return or exchange?",
+      "answer": "You can start a return or exchange by visiting our online returns portal. You will need your order number and the email address used to place the order.",
+      "featured": true
+    },
+    {
+      "id": 202,
+      "category_id": 2,
+      "question": "What is your return policy?",
+      "answer": "We accept returns on unworn, unwashed items with original tags attached within 30 days of the delivery date. Final sale items are not eligible for return.",
+      "featured": false
+    },
+    {
+      "id": 203,
+      "category_id": 2,
+      "question": "How long does the refund process take?",
+      "answer": "Once we receive and inspect your return, please allow 5-7 business days for your refund to be processed. You will receive an email notification once your refund is complete.",
+      "featured": false
+    },
+    {
+      "id": 204,
+      "category_id": 2,
+      "question": "Are return shipping labels provided?",
+      "answer": "For domestic returns, a prepaid return shipping label will be provided. For exchanges, the return shipping is free. For refunds, a small $5 fee for the label will be deducted from your total refund amount.",
+      "featured": false
+    },
+    {
+      "id": 205,
+      "category_id": 2,
+      "question": "What if I received a damaged item?",
+      "answer": "We sincerely apologize for that! Please contact our customer support team within 48 hours of receiving your order with photos of the damaged item, and we will arrange for a replacement immediately.",
+      "featured": false
+    },
+    {
+      "id": 301,
+      "category_id": 3,
+      "question": "Where are we based?",
+      "answer": "We are based in Jaipur, India. We do not have any physical stores at this time.",
+      "featured": true
+    },
+    {
+      "id": 302,
+      "category_id": 3,
+      "question": "Do you offer product customizations?",
+      "answer": "Currently, we do not offer customizations or monogramming services. All products are sold as-is on the website.",
+      "featured": false
+    },
+    {
+      "id": 303,
+      "category_id": 3,
+      "question": "When is a token amount required for COD?",
+      "answer": "A token amount is required for Cash on Delivery (COD) orders over a certain value to confirm the order. This amount is non-refundable if the order is canceled or returned.",
+      "featured": false
+    },
+    {
+      "id": 304,
+      "category_id": 3,
+      "question": "Do you offer a warranty?",
+      "answer": "We offer a 6-month warranty on manufacturing defects. This does not cover normal wear and tear, damage from misuse, or water damage.",
+      "featured": false
+    },
+    {
+      "id": 305,
+      "category_id": 3,
+      "question": "Do you use genuine leather?",
+      "answer": "Yes, all our leather products are made from 100% genuine, high-quality leather. Please check the product description for specific details.",
+      "featured": false
+    },
+    {
+      "id": 401,
+      "category_id": 4,
+      "question": "What are the international shipping costs?",
+      "answer": "International shipping costs are calculated at checkout based on your destination and the weight of your package.",
+      "featured": false
+    },
+    {
+      "id": 402,
+      "category_id": 4,
+      "question": "How can I place an international order?",
+      "answer": "Simply add items to your cart and proceed to checkout. Enter your international shipping address, and the available shipping options and costs will be displayed.",
+      "featured": false
+    },
+    {
+      "id": 403,
+      "category_id": 4,
+      "question": "What payment options are available for international orders?",
+      "answer": "For all international orders, payment must be prepaid using PayPal or Razorpay. Cash on Delivery (COD) is not available for these transactions.",
+      "featured": false
+    },
+    {
+      "id": 404,
+      "category_id": 4,
+      "question": "Are there additional fees for international orders?",
+      "answer": "Your order may be subject to import duties and taxes (including VAT), which are incurred once a shipment reaches your destination country. Our company is not responsible for these charges.",
+      "featured": false
+    },
+    {
+      "id": 405,
+      "category_id": 4,
+      "question": "What is the return policy for international orders?",
+      "answer": "Due to the complexities of international shipping and customs, all international sales are final and not eligible for return or exchange. Please contact us if you receive a defective item.",
+      "featured": false
+    },
+    {
+      "id": 501,
+      "category_id": 5,
+      "question": "How can I contact customer support?",
+      "answer": "You can reach our team via email at support@example.com, by phone at +91-1234567890, or on WhatsApp at the same number.",
+      "featured": false
+    },
+    {
+      "id": 502,
+      "category_id": 5,
+      "question": "What are your customer service hours?",
+      "answer": "Our team is available Monday to Friday, from 10:00 AM to 6:00 PM IST. We are closed on weekends and public holidays.",
+      "featured": false
+    },
+    {
+      "id": 503,
+      "category_id": 5,
+      "question": "Where can I follow you on social media?",
+      "answer": "You can follow us on Instagram and Facebook @YourBrandName for the latest updates, new arrivals, and special promotions.",
+      "featured": false
+    },
+    {
+      "id": 504,
+      "category_id": 5,
+      "question": "Do you have a physical store?",
+      "answer": "We are currently an online-only brand and do not have any physical retail locations. All orders can be placed through our website.",
+      "featured": false
+    },
+    {
+      "id": 505,
+      "category_id": 5,
+      "question": "I'm a brand/influencer, how can I collaborate?",
+      "answer": "For all collaboration and press inquiries, please email us at collaborations@example.com with your proposal and media kit.",
+      "featured": false
+    }
+  ]
+}
