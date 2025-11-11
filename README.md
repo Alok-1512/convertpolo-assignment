@@ -2,7 +2,7 @@
 
 ## 📝 Description
 
-[Add a brief, 1-2 sentence description of the assignment here. For example: "This project is a Shopify theme customization created for the Convertpolo assignment, demonstrating the support widget feature."]
+This project is a Shopify theme customization created for the Convertpolo assignment, demonstrating the support widget feature.
 
 ---
 
